@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.content{
+    padding-top: 4rem;
+    background-color: rgb(63, 62, 62);
+    height: 100vh;
+   
+}
+.aside{
+    position: fixed;
+}
+.content img{
+    width: 50%;
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+.content .text{
+    margin: auto;
+    border-top: 1px solid rgb(197, 195, 195);
+    padding-top: 2rem;
+    color: #fff;
+}
+.caard{
+    margin-left: 27%;
+    margin-top: 2rem;
+}
